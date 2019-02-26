@@ -296,6 +296,10 @@
     "Kind-image":"kind_life.png",
     "price":"1234"
   }
-]
+],
+        searchKey: '',
+        currentPage: 0,
+        itemsPerPage: 5,
+        resultCount: 0
 }
 }
